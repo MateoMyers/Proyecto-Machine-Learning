@@ -16,7 +16,7 @@ Estadísticas de equipos y resultados de partidos de la Premier League, en dos a
 Gaussian Naive Bayes, Decision Tree, SVM, Random Forest, Gradient Boosting, Regresión Lineal, Red Neuronal (MLP), GridSearchCV, KFold, RMSE, F1.
 
 ## Enlaces
-- **Código (Colab):** [Abrir notebook en Colab](https://colab.research.google.com/github/MateoMyers/Proyecto-Machine-Learning/blob/main/notebooks/Proyecto_aprendizaje_premier.ipynb)
+- **Código (Colab):** [Abrir notebook en Colab](https://colab.research.google.com/drive/1yrhN2dWa89RIrKhC52nOcI87NRR9znHS?usp=sharing)
 - **Código (notebook en GitHub):** [notebooks/Proyecto_aprendizaje_premier.ipynb](notebooks/Proyecto_aprendizaje_premier.ipynb)
 - **Diapositivas:** [presentacion/Diapos_proyecto_final_ml.pptx](presentacion/Diapos_proyecto_final_ml.pptx)
 - **Video:** _pendiente_
