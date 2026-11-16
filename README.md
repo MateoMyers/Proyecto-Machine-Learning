@@ -29,6 +29,8 @@ Gaussian Naive Bayes, Decision Tree, SVM, Random Forest, Regresión Lineal, Red 
 - **Diapositivas:** [Documents_ml/Diapos_proyecto_final_ml_editado.pptx](Documents_ml/Diapos_proyecto_final_ml_editado.pptx)
 - **Repositorio:** https://github.com/MateoMyers/Proyecto-Machine-Learning
 -  **Video:** [Video final ML](https://youtu.be/KJdbc8Ath_g)
+  [![Home Goals Prediction with ML](image_ml/Predicción de goles en casa con ML miniatura.png)](https://www.youtube.com/watch?v=ID_DE_TU_VIDEO)
 <p align="center">
+
   <img src="image_ml/Predicción de goles en casa con ML miniatura.png" alt="Banner del Proyecto" width="320" height="180">
 </p>
