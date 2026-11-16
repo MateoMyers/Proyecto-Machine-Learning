@@ -12,7 +12,7 @@ Estadísticas de equipos y resultados de partidos de la Barclays Premier League,
 - [Estadísticas (`stats_df`)](https://drive.google.com/uc?id=1LxkcMGkaHML90Byj7629y-byZz5FGoU-)
 - [Resultados (`results_df`)](https://drive.google.com/uc?id=1E36QY6b0PSxwjzQpglaHcHC0Jbl2dqs4)
 
-un  Dataset trae estadísticas menos densas mientras que el otro tiene más de 80 variables y mediciones tomadas a lo largo de más de dos
+Un  Dataset trae estadísticas menos densas mientras que el otro tiene más de 80 variables y mediciones tomadas a lo largo de más de dos
 temporadas de fútbol, lo que lo hace un dataset bastante denso
 
 ## Modelos
