@@ -1,5 +1,9 @@
 # Predicción de goles del equipo local en la Premier League con Machine Learning
 
+<p align="center">
+  <img src="image_ml/Predicción de goles en casa con ML.png" alt="Banner del Proyecto" width="800" height="300">
+</p>
+
 ## Autores
 Mateo Amaya Moreno 2250921, Alejandro Ramírez Mejía 2250930, Carlos Daniel Martínez Ramírez 2250917
 
