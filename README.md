@@ -5,7 +5,7 @@
 </p>
 
 ## Autores
-Mateo Amaya Moreno 2250921, Alejandro Ramírez Mejía 2250930, Carlos Daniel Martínez Ramírez 2250917
+Mateo Amaya Moreno 2250921, Alejandro Ramírez Mejía 2250930, Carlos Daniel Martínez Ramírez 2250917.
 
 ## Objetivo
 Predecir la cantidad de goles que anota el equipo local en un partido de la Premier League en las temporadas determinadas a partir de estadísticas previas al encuentro.
