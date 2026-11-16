@@ -32,7 +32,7 @@ Gaussian Naive Bayes, Decision Tree, SVM, Random Forest, Regresión Lineal, Red 
   
 
 <p align="left">
-  <a href="[https://youtu.be/KJdbc8Ath_g]" target="_blank">
+  <a href="[https://youtu.be/KJdbc8Ath_g]">
     <img src="image_ml/Predicción de goles en casa con ML miniatura.png"
          alt="Banner del Proyecto"
          width="320"
